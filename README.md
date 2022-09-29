@@ -9,7 +9,7 @@ Para iniciar esse curso, clone esse repositório e digite os seguintes comandos:
 
 - Adicionei bastante comentarios para me ajudar a aprender os conceitos.
 
--Se você deseja fazer o mesmo projeto e entender profundamente, irei deixar o link do bootcamp abaixo, ele é assincrono, você pode fazer a qualquer hora, e caso tenha duvidas acesse o Discord da comunidade e pode me chamar, @Luan ou é @LaaSin#5240.. mas é só mandar a duvida que todos te responde!
+- Se você deseja fazer o mesmo projeto e entender profundamente, irei deixar o link do bootcamp abaixo, ele é assincrono, você pode fazer a qualquer hora, e caso tenha duvidas acesse o Discord da comunidade e pode me chamar, @Luan ou é @LaaSin#5240.. mas é só mandar a duvida que todos te responde!
 
 ### **Caso queira acessar o meu projeto e ver Rodando através do Replit acesse [AQUI](https://replit.com/@LuanArtacho/Frontend-Bootcamp-NFT-Web3dev?v=1)**
 
